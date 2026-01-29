@@ -36,8 +36,11 @@ Adam Smith viewed land rent as a monopoly return rather than a reward for produc
 
 Two pieces of land can look exactly the same on a map, yet end up being worth radically different amounts. One *clicks* with its surroundings—the zoning rules, the neighbors, the roads, the utilities, and the actual pulse of the market—creating a path of least resistance. The other keeps banging into friction at every step through approvals, infrastructure limits, or market resistance.
 
-{Image here}
-{Minor changes in grade exposure can reclassify a lower level from a basement to a storey, resulting in different approval pathways, inspection requirements, and regulatory processes despite similar overall building form.}
+![Alt text](https://github.com/yadabdas/threadwalker-labs/blob/main/src/real-estate/image-house_difference.jpg)
+
+```
+Minor changes in grade exposure can reclassify a lower level from a basement to a storey, resulting in different approval pathways, inspection requirements, and regulatory processes despite similar overall building form.
+```
 
 In real estate, true value reveals itself through how well a property navigates these real-world constraints. It isn't decided in the abstract; it is earned through the alignment of physical space with social and legal systems.
 
